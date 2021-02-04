@@ -1,1 +1,0 @@
-[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.martindesimone.notesapp.ui.list.NoteListFragmentDirections","com.martindesimone.notesapp.ui.editor.NoteEditorFragmentDirections","com.martindesimone.notesapp.ui.editor.NoteEditorFragmentArgs"]}]
