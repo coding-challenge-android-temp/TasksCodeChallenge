@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/layout_fragment_list_note.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/layout/fragment_list_note.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_ic_add_24.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/ic_add_24.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_button_editor.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/button_editor.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_edit_text_editor.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/edit_text_editor.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_nota_logo.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/nota_logo.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/layout_item_note.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/layout/item_note.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/drawable_ic_save.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/drawable/ic_save.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/layout_fragment_note_editor.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/layout/fragment_note_editor.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/martindesimone/Downloads/Tasks App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/martindesimone/Downloads/Tasks App/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

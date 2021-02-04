@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes - Martin De Simone</string>
+    <string name="hint_title_edit_text">Title</string>
+    <string name="hint_content_edit_text">Note</string>
+    <string name="hint_search_notes">Search notes</string>
+    <string name="item_title_tools_text">Note title</string>
+    <string name="item_content_tools_text">Note description</string>
+    <string name="save">Save</string>
+    <string name="content_description_save">Save note</string>
+    <string name="data_required">You must fill both fields</string>
+    <string name="list_message_notes">The tasks you add will appear here</string>
+    <string name="title_delete_note_message">Remove note</string>
+    <string name="content_delete_note_message">¿Are you sure you want to remove this note?</string>
+    <string name="cancel">No</string>
+    <string name="accept">Yes</string>
+</resources>

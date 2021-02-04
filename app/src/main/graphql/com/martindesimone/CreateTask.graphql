@@ -1,0 +1,8 @@
+mutation CreateTask($taskName: String!, $taskNote: String!){
+  createTask(name: $taskName, note: $taskNote, isDone:false) {
+    id
+    name
+    note
+    isDone
+  }
+}
